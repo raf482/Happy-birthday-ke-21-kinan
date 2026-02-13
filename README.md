@@ -1,6 +1,6 @@
 ## ✨ Website ucapan ulang tahun
 
-[demo](https://hbd-jubed.netlify.app/)
+[demo](http://raf482.github.io/Happy-birthday-ke-21-kinan/)
 
 ## 🚀 Quick start
 
@@ -8,7 +8,7 @@
 
    ```bash
    # clone repo dengan git command berikut
-   $ git clone https://github.com/aafrzl/ucapan-ultah.git
+   $ git clone https://github.com/raf482/Happy-birthday-ke-21-kinan.git
 
    # masuk ke folder project
    $ cd ucapan-ultah
@@ -21,3 +21,4 @@
 
 3. **Deploy ke Netlify**
    Deploy dengan Netlify drag and drop folder project ke Netlify [Netlify](https://www.netlify.com/)
+4. atau menggunakan server github
