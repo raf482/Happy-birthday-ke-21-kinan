@@ -2,6 +2,8 @@
 
 [demo](http://raf482.github.io/Happy-birthday-ke-21-kinan/)
 
+[demo].(https://happy-birthday-21-kinan.netlify.app/)
+
 ## 🚀 Quick start
 
 1. **Clone Repo**
